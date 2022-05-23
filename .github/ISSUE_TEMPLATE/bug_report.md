@@ -24,8 +24,10 @@ If applicable, add screenshots to help explain your problem.
  - Browser [e.g. chrome, safari]
  - Version [e.g. 22]
 
-**Version***
+**Version**
 Is this bug in a beta program, or in a published release?
 
 **Additional context**
 Add any other context about the problem here.
+
+Note: Provide this information by opening an issue via the "issues" tab.
