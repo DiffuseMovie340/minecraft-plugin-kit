@@ -7,9 +7,9 @@ Keep in mind that this doesn't mean that they're bug-free! All are encouraged to
 (Not reccomended) Download beta plugins with published code:
 Folder:
 Use the green "Code" button in the main screen and download and extract the ZIP file or open and clone the repository with GitHub Desktop.
-If you want to try out some beta plugins that were published to the main repository, but not officially released, here are instructions: 
-Open the file you want as a "RAW" file 
-Right-click the page and save it with "Save as" 
+Single file:
+Click on the file you want, and click the "Download" button on the right
+**OR** Open the file you want as a "RAW" file and right-click the page and save it with "Save as" 
 It would help a lot if you could submit a bug report or a feature request! 
 Or comment that you think it's ready for publish.
 
